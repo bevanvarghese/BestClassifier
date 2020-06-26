@@ -12,7 +12,7 @@ This project applies different ML algorithms for classification and then evaluat
 ### Accuracy Metrics Used
 1. Jaccard Similarity Score
 2. F1-Score
-3. LogLoss (for Logistic Regression
+3. LogLoss (for Logistic Regression)
 
 ### Results
 | Algorithm          | Jaccard | F1-score | LogLoss |
